@@ -1,0 +1,21 @@
+{
+  "company": "EXAMPLE STUDIO - FZCO",
+  "address": "Example Business Centre, Dubai Silicon Oasis, Dubai, U.A.E.",
+  "licence_no": "00000",
+  "licence_authority": "IFZA DSO",
+  "emirate": "DUBAI",
+  "incorporated": "1 June 2026",
+  "letter_date": "8 October 2026",
+  "signatory": "Jane Example, Director",
+  "signatory_id": "Emirates ID 784-0000-0000000-0",
+  "threshold": "voluntary",
+  "threshold_date": "2 October 2026",
+  "next_30_days_aed": 40000.00,
+  "note": "All supplies to date are services to customers outside the UAE (zero-rated exports).",
+  "seal": true,
+  "supplies": [
+    {"month": "2026-07", "date": "2026-07-15", "ref": "INV-001", "customer": "Client One Inc (US)", "original": "USD 20,000.00", "aed": 73450.00},
+    {"month": "2026-08", "date": "2026-08-14", "ref": "INV-002", "customer": "Client Two Ltd (UK)", "original": "USD 20,000.00", "aed": 73450.00},
+    {"month": "2026-10", "date": "2026-10-02", "ref": "INV-003", "customer": "Client One Inc (US)", "original": "USD 15,000.00", "aed": 55087.50}
+  ]
+}
